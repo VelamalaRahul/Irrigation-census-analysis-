@@ -1,4 +1,5 @@
 🌾 Irrigation Census Analysis 🧑‍🌾
+
 This project presents a comprehensive analysis of the Irrigation Census dataset, aiming to uncover patterns and insights related to irrigation sources, regional usage, and agricultural practices across various Indian states. Built using Python in a Jupyter Notebook, the analysis explores data cleaning, visualization, and trend discovery.
 
 🔍 Key Features
